@@ -10,10 +10,6 @@ header {
     width: 100vw;
 }
 
-h1 {
-    font-size: 40px;
-}
-
 .header_img {
     /* test */
     width: 230px;
@@ -21,6 +17,16 @@ h1 {
 }
 
 .about {
-    /* test */
-    height: auto;
+    background-color: #1abc9c;
 }
+
+hr {
+    opacity: 1;
+}
+
+footer {
+    background-color: aquamarine;
+}
+
+
+/* to fix all hr */
