@@ -20,12 +20,7 @@ h1 {
     height: 250px;
 }
 
-.card {
-    /* test */
-    height: 260px;
-}
-
 .about {
     /* test */
-    height: 480px;
+    height: auto;
 }
