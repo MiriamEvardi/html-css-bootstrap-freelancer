@@ -15,6 +15,17 @@ h1 {
 }
 
 .header_img {
+    /* test */
     width: 230px;
     height: 250px;
+}
+
+.card {
+    /* test */
+    height: 260px;
+}
+
+.about {
+    /* test */
+    height: 480px;
 }
