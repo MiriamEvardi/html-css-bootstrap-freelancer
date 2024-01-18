@@ -10,8 +10,8 @@ header {
     background-color: #1abc9c;
 }
 
-hr {
-    opacity: 1;
+.btn_send {
+    background-color: #1abc9c;
 }
 
 footer {
@@ -25,5 +25,3 @@ footer {
 a {
     color: #20ae94;
 }
-
-/* to fix all hr */
